@@ -1,1 +1,1 @@
-# deep-learning-notebooks
+# Deep Learning Notebooks
