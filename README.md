@@ -2,9 +2,9 @@
 
 Content:
 
-Dense Neural Networks
++ Dense Neural Networks
 
-Convolutional Neural Networks
++ Convolutional Neural Networks
 
-Recurrent Neural Networks
++ Recurrent Neural Networks
 
